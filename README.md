@@ -16,4 +16,5 @@ State of GPT - https://www.youtube.com/watch?v=bZQun8Y4L2A
 
 ## Blogs
 Ahead of AI - https://magazine.sebastianraschka.com/
+
 Interconnets AI - https://www.interconnects.ai/
