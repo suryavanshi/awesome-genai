@@ -2,8 +2,13 @@
 Collection of Links and resources for Generative AI, LLM 
 ## Commercial Models
 OpenAI - ChatGPT
+
+Google - Bard
+
 Anthropic - Claude
+
 Magic.dev - LTM-1
+
 Adept - ACT-1
 
 ## Videos
