@@ -14,6 +14,9 @@
 - [Ahead of AI](https://magazine.sebastianraschka.com/)
 - [Interconnects AI](https://www.interconnects.ai/)
 - [Sequence](https://thesequence.substack.com/)
+
+## Generative Speech
+[Facebook VoiceBox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) - Not available publicly
   
 ## Commercial Models
 - [OpenAI - ChatGPT](https://openai.com/)
