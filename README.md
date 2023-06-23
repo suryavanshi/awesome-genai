@@ -7,10 +7,15 @@
 - [MosaicML - MPT-30B](https://www.mosaicml.com/blog/mpt-30b)
 - [Together RedPajama-7b](https://www.together.xyz/blog/redpajama-7b)
 
+## Tools
+- MetaFlow
+- Flamingo
+- LangChain
+
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
-## Blogs
+## Blogs and Newsletters
 - [Ahead of AI](https://magazine.sebastianraschka.com/)
 - [Interconnects AI](https://www.interconnects.ai/)
 - [Sequence](https://thesequence.substack.com/)
