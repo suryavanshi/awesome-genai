@@ -8,9 +8,8 @@
 - [Together RedPajama-7b](https://www.together.xyz/blog/redpajama-7b)
 
 ## Tools
-- MetaFlow
-- Flamingo
-- LangChain
+- [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
+- [LangChain](https://github.com/hwchase17/langchain)
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
