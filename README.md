@@ -14,10 +14,14 @@
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
-## Blogs and Newsletters
+## Newsletters
 - [Ahead of AI](https://magazine.sebastianraschka.com/)
 - [Interconnects AI](https://www.interconnects.ai/)
 - [Sequence](https://thesequence.substack.com/)
+
+## Generative Image Models
+- [Stable Diffusion](https://stability.ai/stablediffusion)
+- [Midjourney](https://docs.midjourney.com/)
 
 ## Generative Speech
 [Facebook VoiceBox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) - Not available publicly
@@ -29,3 +33,6 @@
 - [Magic.dev - LTM-1](https://magic.dev/blog/ltm-1)
 - [Adept - ACT-1](https://www.adept.ai/blog/act-1)
 - [Inflection - Inflection-1](https://inflection.ai/inflection-1)
+
+## Blog Posts
+- [Training Dolly using Metaflow](https://outerbounds.com/blog/train-dolly-metaflow/)
