@@ -2,11 +2,14 @@
 ### Collection of Links and resources for Generative AI, LLM
 
 ## Open Source Models
-- [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
 - [Falcon LLM](https://falconllm.tii.ae/)
+- [Salesforce XGen](https://github.com/salesforce/xGen) - Similar architecture to Llama
 - [StarChat-β](https://huggingface.co/HuggingFaceH4/starchat-beta)
 - [MosaicML - MPT-30B](https://www.mosaicml.com/blog/mpt-30b)
 - [Together RedPajama-7b](https://www.together.xyz/blog/redpajama-7b)
+- [Facebook Llama](https://github.com/facebookresearch/llama/tree/main)
+- [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
 
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
