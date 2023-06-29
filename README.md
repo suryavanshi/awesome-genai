@@ -32,15 +32,6 @@
 ## Generative Speech
 [Facebook VoiceBox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) - Not available publicly
   
-## Commercial Models
-- [OpenAI - ChatGPT](https://openai.com/)
-- [Google - Bard](https://bard.google.com/)
-- [Anthropic - Claude](https://www.anthropic.com/)
-- [Magic.dev - LTM-1](https://magic.dev/blog/ltm-1)
-- [Adept - ACT-1](https://www.adept.ai/blog/act-1)
-- [Inflection - Inflection-1](https://inflection.ai/inflection-1)
-- [Character C1.2](https://blog.character.ai/character-ai/)
-
 ##  Tools
 - [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) 
 
@@ -50,3 +41,13 @@
 ## Courses and resources
 - [HuggingFace Audio Deeplearning Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 - [LLM Learning Lab](https://lightning.ai/pages/llm-learning-lab/)
+
+## Commercial Models
+- [OpenAI - ChatGPT](https://openai.com/)
+- [Google - Bard](https://bard.google.com/)
+- [Anthropic - Claude](https://www.anthropic.com/)
+- [Magic.dev - LTM-1](https://magic.dev/blog/ltm-1)
+- [Adept - ACT-1](https://www.adept.ai/blog/act-1)
+- [Inflection - Inflection-1](https://inflection.ai/inflection-1)
+- [Character C1.2](https://blog.character.ai/character-ai/)
+- [Cohere Models](https://docs.cohere.com/docs/generation-card)
