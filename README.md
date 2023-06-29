@@ -14,7 +14,7 @@
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
 - [LangChain](https://github.com/hwchase17/langchain)
-- [GGML](https://github.com/ggerganov/ggml) - C Tensor library implementing Llama and Whisper etc
+- [GGML](https://github.com/ggerganov/ggml) - C Tensor ML library implementing Llama and Whisper etc
 - [Mosaic LLM Foundry](https://github.com/mosaicml/llm-foundry)
 
 ## Videos
