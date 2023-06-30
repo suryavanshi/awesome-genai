@@ -10,6 +10,7 @@
 - [Facebook Llama](https://github.com/facebookresearch/llama/tree/main)
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
+- [Open Llama](https://github.com/openlm-research/open_llama)
 
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
