@@ -2,7 +2,7 @@
 ### Collection of Links and resources for Generative AI, LLM
 
 ## Open Source Models
-- [OpenChat](https://github.com/imoneoi/openchat) [HF Model Card](https://huggingface.co/openchat/openchat_8192)
+- [OpenChat](https://github.com/imoneoi/openchat) , [HF Model Card](https://huggingface.co/openchat/openchat_8192)
 - [Falcon LLM](https://falconllm.tii.ae/)
 - [Salesforce XGen](https://github.com/salesforce/xGen) - Similar architecture to Llama
 - [StarChat-β](https://huggingface.co/HuggingFaceH4/starchat-beta)
