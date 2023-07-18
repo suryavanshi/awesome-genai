@@ -2,6 +2,7 @@
 ### Collection of Links and resources for Generative AI, LLM
 
 ## Open Source Models
+- [GPT4ALL](https://github.com/nomic-ai/gpt4all)
 - [OpenChat](https://github.com/imoneoi/openchat) , [HF Model Card](https://huggingface.co/openchat/openchat_8192)
 - [Falcon LLM](https://falconllm.tii.ae/)
 - [Salesforce XGen](https://github.com/salesforce/xGen) - Similar architecture to Llama
