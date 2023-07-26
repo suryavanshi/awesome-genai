@@ -3,6 +3,7 @@
 
 ## Open Source Models
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all)
+- LLama-2
 - [OpenChat](https://github.com/imoneoi/openchat) , [HF Model Card](https://huggingface.co/openchat/openchat_8192)
 - [Falcon LLM](https://falconllm.tii.ae/)
 - [Salesforce XGen](https://github.com/salesforce/xGen) - Similar architecture to Llama
@@ -13,6 +14,7 @@
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
 - [Open Llama](https://github.com/openlm-research/open_llama)
+- Vicuna
 
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
