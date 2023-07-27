@@ -3,7 +3,7 @@
 
 ## Open Source Models
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all)
-- LLama-2
+- [Meta LLama-2 on HF](https://huggingface.co/docs/transformers/main/model_doc/llama2) 
 - [OpenChat](https://github.com/imoneoi/openchat) , [HF Model Card](https://huggingface.co/openchat/openchat_8192)
 - [Falcon LLM](https://falconllm.tii.ae/)
 - [Salesforce XGen](https://github.com/salesforce/xGen) - Similar architecture to Llama
@@ -14,13 +14,14 @@
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
 - [Open Llama](https://github.com/openlm-research/open_llama)
-- Vicuna
 
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
 - [LangChain](https://github.com/hwchase17/langchain)
 - [GGML](https://github.com/ggerganov/ggml) - C Tensor ML library implementing Llama and Whisper etc
 - [Mosaic LLM Foundry](https://github.com/mosaicml/llm-foundry)
+- [LLamaIndex/GPTIndex](https://gpt-index.readthedocs.io/en/latest/) - Framework for retrieval augmented generation (RAG)
+- [Milvus](https://github.com/milvus-io/milvus) - Open source vector database
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
