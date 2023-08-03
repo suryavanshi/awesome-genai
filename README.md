@@ -14,6 +14,7 @@
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
 - [Open Llama](https://github.com/openlm-research/open_llama)
+- [Lighton Alfred](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
 
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
@@ -22,6 +23,8 @@
 - [Mosaic LLM Foundry](https://github.com/mosaicml/llm-foundry)
 - [LLamaIndex/GPTIndex](https://gpt-index.readthedocs.io/en/latest/) - Framework for retrieval augmented generation (RAG)
 - [Milvus](https://github.com/milvus-io/milvus) - Open source vector database
+- [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)
+- [Vector DB/ANN Benchmark](https://github.com/erikbern/ann-benchmarks)
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
@@ -37,9 +40,6 @@
 
 ## Generative Speech
 [Facebook VoiceBox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) - Not available publicly
-  
-##  Tools
-- [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio) 
 
 ## Blog Posts
 - [Training Dolly using Metaflow](https://outerbounds.com/blog/train-dolly-metaflow/)
