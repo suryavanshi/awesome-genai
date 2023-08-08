@@ -25,6 +25,7 @@
 - [Milvus](https://github.com/milvus-io/milvus) - Open source vector database
 - [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)
 - [Vector DB/ANN Benchmark](https://github.com/erikbern/ann-benchmarks)
+- [Candle](https://github.com/huggingface/candle) - ML framework for Rust
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
