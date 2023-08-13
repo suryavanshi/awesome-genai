@@ -11,11 +11,18 @@
 - [MosaicML - MPT-30B](https://www.mosaicml.com/blog/mpt-30b)
 - [Together RedPajama-7b](https://www.together.xyz/blog/redpajama-7b)
 - [Facebook Llama](https://github.com/facebookresearch/llama/tree/main)
-- [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
 - [Open Llama](https://github.com/openlm-research/open_llama)
 - [Lighton Alfred](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
+- StableLM
 
+## Fine Tuned Models
+- Lima
+- Vicuna
+- Gorilla
+- [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- FastChat-T5
+  
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
 - [LangChain](https://github.com/hwchase17/langchain)
@@ -26,6 +33,7 @@
 - [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio)
 - [Vector DB/ANN Benchmark](https://github.com/erikbern/ann-benchmarks)
 - [Candle](https://github.com/huggingface/candle) - ML framework for Rust
+- Flowise
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
@@ -44,6 +52,7 @@
 
 ## Blog Posts
 - [Training Dolly using Metaflow](https://outerbounds.com/blog/train-dolly-metaflow/)
+- StackLlama
 
 ## Courses and resources
 - [HuggingFace Audio Deeplearning Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
