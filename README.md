@@ -34,6 +34,7 @@
 - [Vector DB/ANN Benchmark](https://github.com/erikbern/ann-benchmarks)
 - [Candle](https://github.com/huggingface/candle) - ML framework for Rust
 - Flowise
+- [LlaMA2 Accesory)(https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
@@ -57,6 +58,7 @@
 ## Courses and resources
 - [HuggingFace Audio Deeplearning Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 - [LLM Learning Lab](https://lightning.ai/pages/llm-learning-lab/)
+- [LLM with Semantic Search using Weaviate and Cohers](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 
 ## Commercial Models
 - [OpenAI - ChatGPT](https://openai.com/)
