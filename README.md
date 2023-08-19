@@ -34,7 +34,8 @@
 - [Vector DB/ANN Benchmark](https://github.com/erikbern/ann-benchmarks)
 - [Candle](https://github.com/huggingface/candle) - ML framework for Rust
 - Flowise
-- [LlaMA2 Accesory)(https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+- [LlaMA2 Accesory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+- [Streamlit Weaviate Connector](https://github.com/weaviate/st-weaviate-connection/tree/main)
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
