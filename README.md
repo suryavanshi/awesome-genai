@@ -55,6 +55,7 @@
 ## Blog Posts
 - [Training Dolly using Metaflow](https://outerbounds.com/blog/train-dolly-metaflow/)
 - StackLlama
+- https://replicate.com/blog/how-to-prompt-llama
 
 ## Courses and resources
 - [HuggingFace Audio Deeplearning Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
