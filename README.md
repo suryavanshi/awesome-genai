@@ -37,6 +37,7 @@
 - [LlaMA2 Accesory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 - [Streamlit Weaviate Connector](https://github.com/weaviate/st-weaviate-connection/tree/main)
 - [ChainLit](https://github.com/Chainlit/chainlit)
+- [LAVIS](https://github.com/salesforce/LAVIS)
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
