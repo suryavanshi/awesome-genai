@@ -52,7 +52,8 @@
 - [Midjourney](https://docs.midjourney.com/)
 
 ## Generative Speech
-[Facebook VoiceBox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) - Not available publicly
+- [Facebook VoiceBox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) - Not available publicly
+- [Speech Cloning](https://huggingface.co/spaces/Plachta/VALL-E-X)
 
 ## Blog Posts
 - [Training Dolly using Metaflow](https://outerbounds.com/blog/train-dolly-metaflow/)
