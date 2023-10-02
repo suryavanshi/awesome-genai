@@ -14,7 +14,8 @@
 - [Eletheur-Pythia](https://github.com/EleutherAI/pythia)
 - [Open Llama](https://github.com/openlm-research/open_llama)
 - [Lighton Alfred](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
-- StableLM
+- [StableLM](https://github.com/Stability-AI/StableLM)
+- [Mistral-7B](https://mistral.ai/news/announcing-mistral-7b/)
 
 ## Fine Tuned Models
 - Lima
