@@ -38,6 +38,7 @@
 - [Streamlit Weaviate Connector](https://github.com/weaviate/st-weaviate-connection/tree/main)
 - [ChainLit](https://github.com/Chainlit/chainlit)
 - [LAVIS](https://github.com/salesforce/LAVIS)
+- [HF Text Generation Interface](https://github.com/huggingface/text-generation-inference)
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
@@ -50,6 +51,7 @@
 ## Generative Image Models
 - [Stable Diffusion](https://stability.ai/stablediffusion)
 - [Midjourney](https://docs.midjourney.com/)
+- [RealFill-Image completion](https://realfill.github.io/)
 
 ## Generative Speech
 - [Facebook VoiceBox](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/) - Not available publicly
