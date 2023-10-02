@@ -40,6 +40,7 @@
 - [ChainLit](https://github.com/Chainlit/chainlit)
 - [LAVIS](https://github.com/salesforce/LAVIS)
 - [HF Text Generation Interface](https://github.com/huggingface/text-generation-inference)
+- [vllm-Efficient LLM Serving](https://github.com/vllm-project/vllm)
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
