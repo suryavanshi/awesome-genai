@@ -23,6 +23,12 @@
 - Gorilla
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - FastChat-T5
+
+## Tools for Deployment 
+- [Replicate](https://replicate.com/)
+- [COG](https://github.com/replicate/cog) - Containers for ML
+- [HF Text Generation Interface](https://github.com/huggingface/text-generation-inference)
+- [vllm-Efficient LLM Serving](https://github.com/vllm-project/vllm)
   
 ## Tools
 - [OpenFlamingo](https://laion.ai/blog/open-flamingo/)
@@ -39,8 +45,7 @@
 - [Streamlit Weaviate Connector](https://github.com/weaviate/st-weaviate-connection/tree/main)
 - [ChainLit](https://github.com/Chainlit/chainlit)
 - [LAVIS](https://github.com/salesforce/LAVIS)
-- [HF Text Generation Interface](https://github.com/huggingface/text-generation-inference)
-- [vllm-Efficient LLM Serving](https://github.com/vllm-project/vllm)
+
 
 ## Videos
 - [State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
