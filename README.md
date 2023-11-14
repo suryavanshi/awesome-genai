@@ -2,7 +2,6 @@
 ### Collection of Links and resources for Generative AI, LLM
 
 ## Open Source Models
-- [GPT4ALL](https://github.com/nomic-ai/gpt4all)
 - [Meta LLama-2 on HF](https://huggingface.co/docs/transformers/main/model_doc/llama2) 
 - [OpenChat](https://github.com/imoneoi/openchat) , [HF Model Card](https://huggingface.co/openchat/openchat_8192)
 - [Falcon LLM](https://falconllm.tii.ae/)
@@ -23,6 +22,7 @@
 - Gorilla
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - FastChat-T5
+- [GPT4ALL](https://github.com/nomic-ai/gpt4all)
 
 ## MultiModal Models
 - [LLaVA 1.5B](https://llava-vl.github.io/)
