@@ -24,6 +24,12 @@
 - [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 - FastChat-T5
 
+## MultiModal Models
+- [LLaVA 1.5B](https://llava-vl.github.io/)
+- [Fuyu 8B] (https://www.adept.ai/blog/fuyu-8b)
+- [SPHINX](https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX)
+- [IDFICS Open Source implementation of DeepMind Flamingo](https://huggingface.co/HuggingFaceM4/idefics-80b-instruct)
+  
 ## Tools for Deployment 
 - [Replicate](https://replicate.com/)
 - [COG](https://github.com/replicate/cog) - Containers for ML
