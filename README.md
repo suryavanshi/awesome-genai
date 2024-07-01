@@ -75,6 +75,7 @@
 - StackLlama
 - https://replicate.com/blog/how-to-prompt-llama
 - [LLama-2 Every resource you need](https://www.philschmid.de/llama-2)
+- [Training MoE at Scale with Pytorch](https://pytorch.org/blog/training-moes/)
 
 ## Courses and resources
 - [HuggingFace Audio Deeplearning Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
